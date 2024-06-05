@@ -6,5 +6,6 @@
     },
     "vcs": {
       "templatesUrl": "https://raw.githubusercontent.com/tgvcs/1/main/vclist.json"
+    }
   }
 ]
