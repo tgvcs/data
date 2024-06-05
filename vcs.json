@@ -1,5 +1,9 @@
 [
   {
+    "id": "1",
+    "data": {
+      "active": true,
+    },
     "organization": {
       "name": "Ministère de l’Eau et de l'Hydraulique Villageoise",
       "sigle": "MEHV"
