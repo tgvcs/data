@@ -1,5 +1,24 @@
 [
   {
+    "uid": "0",
+    "id": "0",
+    "subid": null,
+    "metadata": {
+      "active": true,
+    },
+    "organization": {
+      "name": "ENTITE FICTIVE",
+      "sigle": "ATD-EF"
+    },
+    "vcs": {
+      "url": null,
+      "contextBaseUrl": null,
+      "templateBaseUrl": null
+    }
+  },
+
+  
+  {
     "uid": "1",
     "id": "1",
     "subid": null,
