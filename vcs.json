@@ -11,7 +11,9 @@
       "sigle": "MEHV"
     },
     "vcs": {
-      "templatesUrl": "https://raw.githubusercontent.com/tgvcs/1/main/vclist.json"
+      "url": "https://raw.githubusercontent.com/tgvcs/1/main/vclist.json",
+      "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/1/main/vcContexts",
+      "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/1/main/vcTemplates"
     }
   }
 ]
