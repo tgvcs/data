@@ -17,6 +17,24 @@
     }
   },
 
+  {
+    "uid": "9999",
+    "id": "0",
+    "subid": null,
+    "metadata": {
+      "active": true,
+    },
+    "organization": {
+      "name": "Agence Togo Digital",
+      "sigle": "ATD"
+    },
+    "vcs": {
+      "url": "https://raw.githubusercontent.com/tgvcs/9999/main/vclist.json",
+      "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/9999/main/vcContexts",
+      "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/9999/main/vcTemplates"
+    }
+  },
+
   
   {
     "uid": "1",
