@@ -11,9 +11,9 @@
       "sigle": "ATD-EF"
     },
     "vcs": {
-      "url": null,
-      "contextBaseUrl": null,
-      "templateBaseUrl": null
+       "url": "https://raw.githubusercontent.com/tgvcs/0/main/vclist.json",
+      "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/0/main/vcContexts",
+      "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/0/main/vcTemplates"
     }
   },
 
