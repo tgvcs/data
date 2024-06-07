@@ -1,56 +1,53 @@
 [
-  {
-    "uid": "0",
-    "id": "0",
-    "subid": null,
-    "metadata": {
-      "active": true,
+    {
+        "uid": "0",
+        "id": "0",
+        "subid": null,
+        "metadata": {
+            "active": true
+        },
+        "organization": {
+            "name": "ENTITE FICTIVE",
+            "sigle": "ATD-EF"
+        },
+        "vcs": {
+            "url": null,
+            "contextBaseUrl": null,
+            "templateBaseUrl": null
+        }
     },
-    "organization": {
-      "name": "ENTITE FICTIVE",
-      "sigle": "ATD-EF"
+    {
+        "uid": "9999",
+        "id": "0",
+        "subid": null,
+        "metadata": {
+            "active": true
+        },
+        "organization": {
+            "name": "Agence Togo Digital",
+            "sigle": "ATD"
+        },
+        "vcs": {
+            "url": "https://raw.githubusercontent.com/tgvcs/9999/main/vclist.json",
+            "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/9999/main/vcContexts",
+            "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/9999/main/vcTemplates"
+        }
     },
-    "vcs": {
-       "url": "https://raw.githubusercontent.com/tgvcs/0/main/vclist.json",
-      "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/0/main/vcContexts",
-      "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/0/main/vcTemplates"
+    {
+        "uid": "1",
+        "id": "1",
+        "subid": null,
+        "metadata": {
+            "active": true
+        },
+        "organization": {
+            "name": "Ministère de l’Eau et de l'Hydraulique Villageoise",
+            "sigle": "MEHV"
+        },
+        "vcs": {
+            "url": "https://raw.githubusercontent.com/tgvcs/1/main/vclist.json",
+            "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/1/main/vcContexts",
+            "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/1/main/vcTemplates"
+        }
     }
-  },
-
-  {
-    "uid": "9999",
-    "id": "0",
-    "subid": null,
-    "metadata": {
-      "active": true,
-    },
-    "organization": {
-      "name": "Agence Togo Digital",
-      "sigle": "ATD"
-    },
-    "vcs": {
-      "url": "https://raw.githubusercontent.com/tgvcs/9999/main/vclist.json",
-      "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/9999/main/vcContexts",
-      "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/9999/main/vcTemplates"
-    }
-  },
-
-  
-  {
-    "uid": "1",
-    "id": "1",
-    "subid": null,
-    "metadata": {
-      "active": true,
-    },
-    "organization": {
-      "name": "Ministère de l’Eau et de l'Hydraulique Villageoise",
-      "sigle": "MEHV"
-    },
-    "vcs": {
-      "url": "https://raw.githubusercontent.com/tgvcs/1/main/vclist.json",
-      "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/1/main/vcContexts",
-      "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/1/main/vcTemplates"
-    }
-  }
 ]
