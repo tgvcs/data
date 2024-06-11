@@ -11,6 +11,7 @@
             "sigle": "ATD-EF"
         },
         "vcs": {
+            "zipUrl": "https://raw.githubusercontent.com/tgvcs/0/archive/refs/heads/main.zip",
             "url": "https://raw.githubusercontent.com/tgvcs/0/main/vclist.json",
             "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/0/main/vcContexts",
             "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/0/main/vcTemplates"
@@ -28,6 +29,7 @@
             "sigle": "ATD"
         },
         "vcs": {
+            "zipUrl": "https://raw.githubusercontent.com/tgvcs/9999/archive/refs/heads/main.zip",
             "url": "https://raw.githubusercontent.com/tgvcs/9999/main/vclist.json",
             "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/9999/main/vcContexts",
             "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/9999/main/vcTemplates"
@@ -45,6 +47,7 @@
             "sigle": "MEHV"
         },
         "vcs": {
+            "zipUrl": "https://raw.githubusercontent.com/tgvcs/1/archive/refs/heads/main.zip",
             "url": "https://raw.githubusercontent.com/tgvcs/1/main/vclist.json",
             "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/1/main/vcContexts",
             "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/1/main/vcTemplates"
