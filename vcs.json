@@ -52,5 +52,23 @@
             "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/1/main/vcContexts",
             "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/1/main/vcTemplates"
         }
+    },
+    {
+        "uid": "2",
+        "id": "2",
+        "subid": null,
+        "metadata": {
+            "active": true
+        },
+        "organization": {
+            "name": "Ministère de L'Aministration Territoriale, de la Décentralisation et du Développement des Territoires",
+            "sigle": "MATDDT"
+        },
+        "vcs": {
+            "zipUrl": "https://raw.githubusercontent.com/tgvcs/2/archive/refs/heads/main.zip",
+            "url": "https://raw.githubusercontent.com/tgvcs/2/main/vclist.json",
+            "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/2/main/vcContexts",
+            "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/2/main/vcTemplates"
+        }
     }
 ]
