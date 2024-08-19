@@ -70,5 +70,23 @@
             "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/2/main/vcContexts",
             "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/2/main/vcTemplates"
         }
+    },
+    {
+        "uid": "3",
+        "id": "3",
+        "subid": null,
+        "metadata": {
+            "active": true
+        },
+        "organization": {
+            "name": "Ministère du Commerce, de l'Artisanat et de la Consommation Locale",
+            "sigle": "MCACL"
+        },
+        "vcs": {
+            "zipUrl": "https://raw.githubusercontent.com/tgvcs/3/archive/refs/heads/main.zip",
+            "url": "https://raw.githubusercontent.com/tgvcs/3/main/vclist.json",
+            "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/3/main/vcContexts",
+            "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/3/main/vcTemplates"
+        }
     }
 ]
