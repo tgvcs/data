@@ -88,5 +88,25 @@
             "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/3/main/vcContexts",
             "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/3/main/vcTemplates"
         }
+    },
+    {
+        "uid": "4",
+        "id": "4",
+        "subid": null,
+        "metadata": {
+            "active": true
+        },
+        "organization": {
+            "name": "Secrétariat Générale du Gouvernement",
+            "sigle": "SGG"
+        },
+        "vcs": {
+            "zipUrl": "https://raw.githubusercontent.com/tgvcs/4/archive/refs/heads/main.zip",
+            "url": "https://raw.githubusercontent.com/tgvcs/4/main/vclist.json",
+            "contextBaseUrl": "https://raw.githubusercontent.com/tgvcs/4/main/vcContexts",
+            "templateBaseUrl": "https://raw.githubusercontent.com/tgvcs/4/main/vcTemplates"
+        }
     }
+
+    
 ]
