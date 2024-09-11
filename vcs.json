@@ -8,7 +8,7 @@
         },
         "organization": {
             "name": "Digitalisation des administrations togolaises",
-            "sigle": "ATD/ADMINISTRATIONS - TOGO"
+            "sigle": "ATD/ADMINISTRATIONS - TOGO (TEST)"
         },
         "vcs": {
             "zipUrl": "https://raw.githubusercontent.com/tgvcs/0/archive/refs/heads/main.zip",
