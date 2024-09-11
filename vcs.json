@@ -7,8 +7,8 @@
             "active": true
         },
         "organization": {
-            "name": "ENTITE FICTIVE",
-            "sigle": "ATD-EF"
+            "name": "Digitalisation des administrations togolaises",
+            "sigle": "ATD/ADMINISTRATIONS - TOGO"
         },
         "vcs": {
             "zipUrl": "https://raw.githubusercontent.com/tgvcs/0/archive/refs/heads/main.zip",
