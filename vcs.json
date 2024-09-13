@@ -7,8 +7,8 @@
             "active": true
         },
         "organization": {
-            "name": "Digital Tg",
-            "sigle": "ATD - TOGO"
+            "name": "Digital TG",
+            "sigle": "Digit - TOGO"
         },
         "vcs": {
             "zipUrl": "https://raw.githubusercontent.com/tgvcs/0/archive/refs/heads/main.zip",
